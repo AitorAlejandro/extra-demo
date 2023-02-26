@@ -5,6 +5,6 @@ describe('empty spec', () => {
 
   it('displays the resources text', () => {
     cy.get('h1')
-    .contains('Extraescolares demo');
+    .contains('Extraescolares');
   })
 })
